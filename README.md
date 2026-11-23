@@ -41,29 +41,28 @@
 <!-- ═══════════ DIVIDER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E93,100:0AFF67&height=3" width="100%"/>
 
-<!-- ═══════════ STATS ═══════════ -->
+<!-- ═══════════ STATS (SIMÉTRICAS) ═══════════ -->
 ## 📊 En números
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=0D0D0D&title_color=0AFF67&text_color=F0F0F0&icon_color=FF2E93&border_color=0AFF67&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=0D0D0D&title_color=0AFF67&text_color=F0F0F0&border_color=0AFF67&border_radius=12&langs_count=8" height="180"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=0D0D0D&title_color=0AFF67&text_color=F0F0F0&icon_color=FF2E93&border_color=0AFF67&border_radius=12&include_all_commits=true&count_private=true&card_width=480" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=0D0D0D&title_color=0AFF67&text_color=F0F0F0&border_color=0AFF67&border_radius=12&langs_count=8&card_width=480" height="195"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=0D0D0D&border=0AFF67&stroke=0AFF67&ring=FF2E93&fire=FF2E93&currStreakNum=0AFF67&sideNums=F0F0F0&currStreakLabel=0AFF67&sideLabels=F0F0F0&dates=888888&border_radius=12" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=0D0D0D&border=0AFF67&stroke=0AFF67&ring=FF2E93&fire=FF2E93&currStreakNum=0AFF67&sideNums=F0F0F0&currStreakLabel=0AFF67&sideLabels=F0F0F0&dates=888888&border_radius=12" height="160" />
 </div>
 
 <!-- ═══════════ DIVIDER ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0AFF67,100:B026FF&height=3" width="100%"/>
 
-<!-- ═══════════ SOCIAL ═══════════ -->
-<!-- ⚠️ EDITA SOLO LOS DOS ENLACES MARCADOS -->
+<!-- ═══════════ SOCIAL (SIN PORTAFOLIO) ═══════════ -->
+<!-- ⚠️ EDITA EL ENLACE DE LINKEDIN -->
 ## 🌐 Conecta
 
 <div align="center">
   <a href="https://github.com/JuanfeFernandez"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=0AFF67"/></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-felipe-fern%C3%A1ndez-4b4a1839a/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0AFF67"/></a>
-  <a href="https://Pronto..."><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=firefox&logoColor=FF2E93"/></a>
 </div>
 
 <br/>
