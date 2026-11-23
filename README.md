@@ -1,82 +1,110 @@
-<!-- ═══════════ HEADER: THE CLOCK IS TICKING ═══════════ -->
+<!-- ═══════════ HEADER ESTÁTICO (IMAGEN) ═══════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:810000,50:cf0000,100:b88d00&height=220&section=header&text=JuanfeFernandez&fontSize=60&fontColor=EDC382&fontAlignY=38&desc=Executive%20Manager%20%2F%2F%20Limbus%20Company&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- ═══════════ TYPING SVG: SINNER'S LOG ═══════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=B88D00&center=true&vCenter=true&width=650&lines=Extrayendo+E.G.O+del+compa%C3%B1ero;El+reloj+sigue+su+curso;Cada+commit+es+una+Identidad;En+la+Ciudad%2C+la+lealtad+es+un+mito" alt="Typing SVG" />
+  <img src="https://raijin.gg/_next/image?url=https%3A%2F%2Fshared.fastly.steamstatic.com%2Fstore_item_assets%2Fsteam%2Fapps%2F1973530%2Flibrary_hero.jpg&w=3840&q=75" width="100%" alt="Header Banner" style="border-radius: 8px; border: 2px solid #b01c37;" />
 </div>
 
 <br/>
 
-<!-- ═══════════ BIO / STATUS ═══════════ -->
+<!-- ═══════════ TÍTULO Y UBICACIÓN ═══════════ -->
 <div align="center">
-  <p>
-    <strong>⏰ Executive Manager de Limbus Company</strong><br/>
-    <em>"Permiso para ■■■■■?"</em><br/>
-    <!-- Aquí puedes poner tu lema personal con la estética del juego -->
+  <h1 style="color: #b88d00; font-family: monospace;">Juan Felipe Fernández Losada</h1>
+  <p style="color: #ededed; font-size: 16px;">
+    <strong>Estudiante de Ingeniería Multimedia</strong> · Cali, Colombia 🇨🇴
   </p>
 </div>
 
-<!-- ═══════════ DIVIDER: BLOOD & GOLD ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:810000,100:b88d00&height=3" width="100%"/>
+<!-- ═══════════ DIVIDER ═══════════ -->
+<div align="center">
+  <hr style="border: 1px solid #b01c37; width: 80%;" />
+</div>
 
-<!-- ═══════════ STACK: IDENTITIES & E.G.O ═══════════ -->
-## ⚙️ Identidades & E.G.O.
+<!-- ═══════════ SOBRE MÍ (PERFIL PROFESIONAL) ═══════════ -->
+## 👤 Perfil Profesional
+
+<div align="center">
+  <p style="color: #ededed; max-width: 600px; text-align: justify; margin: auto;">
+    Estudiante de octavo semestre de Ingeniería Multimedia en la Universidad Autónoma de Occidente, con sólida base teórica y técnica. Me caracterizo por mi <strong>compromiso con el aprendizaje continuo</strong>, <strong>adaptabilidad</strong> y <strong>comunicación asertiva</strong>. Cuento con experiencia en la coordinación logística de eventos académicos y manejo de herramientas de diseño y desarrollo web. Busco integrarme a un entorno laboral donde pueda aportar soluciones eficaces y seguir creciendo profesionalmente.
+  </p>
+</div>
+
+<!-- ═══════════ DIVIDER ═══════════ -->
+<div align="center">
+  <hr style="border: 1px solid #b01c37; width: 80%;" />
+</div>
+
+<!-- ═══════════ HABILIDADES TÉCNICAS ═══════════ -->
+## 🛠️ Stack & Herramientas
 
 <div align="center">
 
-<!-- Badges con la paleta de Limbus Company -->
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=b88d00)
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=typescript&logoColor=b88d00)
-![React](https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=b88d00)
-![Next.js](https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=b88d00)
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=b88d00)
-![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=b88d00)
-![Figma](https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=cf0000)
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=cf0000)
+  <!-- Badges adaptados a la paleta oscura/roja/dorada -->
+  ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=b88d00)
+  ![CSS](https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=b88d00)
+  ![Canva](https://img.shields.io/badge/Canva-171717?style=for-the-badge&logo=canva&logoColor=b88d00)
+  ![Office](https://img.shields.io/badge/Office-171717?style=for-the-badge&logo=microsoft-office&logoColor=cf0000)
+  ![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=cf0000)
 
 </div>
 
-<!-- ═══════════ DIVIDER: GOLD LINE ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b88d00,100:810000&height=3" width="100%"/>
+<br/>
 
-<!-- ═══════════ STATS: THE RECORDS ═══════════ -->
-## 📊 Los Registros
+<!-- ═══════════ HABILIDADES BLANDAS ═══════════ -->
+<div align="center">
+  <p style="color: #b88d00; font-size: 14px;">
+    <strong>Competencias Clave:</strong> Trabajo en equipo · Hospitalidad · Adaptabilidad · Compromiso · Aprendizaje progresivo
+  </p>
+</div>
 
-<!-- Contenedor Flex para asegurar simetría -->
+<!-- ═══════════ DIVIDER ═══════════ -->
+<div align="center">
+  <hr style="border: 1px solid #b01c37; width: 80%;" />
+</div>
+
+<!-- ═══════════ EXPERIENCIA DESTACADA ═══════════ -->
+## 📌 Experiencia Destacada
+
+<div align="center">
+  <p style="color: #ededed;">
+    <strong>Apoyo Logístico</strong> · Semana de la Ciencia y la Ingeniería (Feb - Jun 2025)<br/>
+    <em style="color: #b88d00;">Universidad Autónoma de Occidente</em>
+  </p>
+  <p style="color: #cccccc; max-width: 550px; margin: auto; text-align: justify;">
+    Coordinación de recursos técnicos, supervisión de actividades y resolución de imprevistos para garantizar el éxito del evento académico.
+  </p>
+</div>
+
+<!-- ═══════════ DIVIDER ═══════════ -->
+<div align="center">
+  <hr style="border: 1px solid #b01c37; width: 80%;" />
+</div>
+
+<!-- ═══════════ ESTADÍSTICAS (SIMÉTRICAS) ═══════════ -->
+## 📊 Estadísticas
+
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=EDC382&icon_color=cf0000&border_color=810000&border_radius=8&include_all_commits=true&count_private=true&card_width=480" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=171717&title_color=b88d00&text_color=EDC382&border_color=810000&border_radius=8&langs_count=8&card_width=480" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=b01c37&border_radius=8&include_all_commits=true&count_private=true&card_width=480" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=b01c37&border_radius=8&langs_count=8&card_width=480" height="195"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=EDC382&currStreakLabel=b88d00&sideLabels=EDC382&dates=868686&border_radius=8" height="160" />
+  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=b01c37&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=8" height="160" />
 </div>
 
-<!-- ═══════════ DIVIDER: GOLD & BLOOD ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b88d00,100:810000&height=3" width="100%"/>
+<!-- ═══════════ DIVIDER ═══════════ -->
+<div align="center">
+  <hr style="border: 1px solid #b01c37; width: 80%;" />
+</div>
 
-<!-- ═══════════ SOCIAL: THE SINNERS' NETWORK ═══════════ -->
-## 🌐 La Red
+<!-- ═══════════ CONTACTO ═══════════ -->
+## 🌐 Contacto
 
 <div align="center">
-  <a href="https://github.com/JuanfeFernandez"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=b88d00"/></a>
-  <!-- Reemplaza o elimina este enlace -->
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-felipe-fern%C3%A1ndez-4b4a1839a/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=cf0000"/></a>
+  <a href="https://www.linkedin.com/in/juan-felipe-fern%C3%A1ndez-4b4a1..." target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=b88d00"/>
+  </a>
+  <a href="mailto:jffnls123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=cf0000"/>
+  </a>
 </div>
 
 <br/>
-
-<!-- ═══════════ QUOTE / OUTRO ═══════════ -->
-<div align="center">
-  <em>"Todos somos ■■■■■ en este mundo."</em>
-</div>
-
-<br/>
-
-<!-- ═══════════ FOOTER WAVE ═══════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b88d00,50:cf0000,100:810000&height=120&section=footer" width="100%"/>
-</div>
