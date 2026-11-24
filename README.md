@@ -1,200 +1,194 @@
 
-<!-- ================================================= -->
-<!--                 HEADER ANIMADO                    -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                    HEADER                      -->
+<!-- ============================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:171717,35:3d1515,70:810000,100:b88d00&text=JUANFE%20FERNANDEZ&fontSize=43&fontColor=ededed&fontAlignY=38&desc=STUDENT%20%7C%20DEVELOPER%20IN%20PROGRESS&descSize=15&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=200&section=header&text=Juanfe%20Fernandez&fontSize=48&fontColor=ededed&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Creative%20Mind&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=B88D00&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space!;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Curiosity+is+my+favorite+programming+tool.;Every+project+is+a+new+challenge." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day.;Exploring+technology+and+building+ideas.;Progress+over+perfection." />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-b88d00?style=for-the-badge&labelColor=171717" />
-<img src="https://img.shields.io/badge/MINDSET-CREATIVE-810000?style=for-the-badge&labelColor=171717" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-b88d00?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/MINDSET-CREATIVITY-810000?style=for-the-badge&labelColor=171717"/>
 
 <br/><br/>
 
 <a href="https://github.com/JuanfeFernandez">
-<img src="https://komarev.com/ghpvc/?username=JuanfeFernandez&style=flat-square&color=b88d00&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=JuanfeFernandez&style=flat-square&color=b88d00&label=PROFILE+VISITORS"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                    ABOUT ME                       -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                  INTRODUCTION                  -->
+<!-- ============================================== -->
 
-## 🧑‍💻 About Me
+## 👋 Hey! Welcome to my space
 
-<div align="center">
+I'm **Juanfe Fernandez**, a student passionate about technology, software development and creative problem-solving.
 
-### ¡Hola! Soy Juanfe 👋
+I enjoy discovering how things work, experimenting with new tools and turning ideas into something real.
 
-</div>
-
-Soy un estudiante apasionado por la tecnología, el desarrollo de software y la posibilidad de convertir ideas en proyectos reales.
-
-Actualmente estoy en un proceso constante de aprendizaje, explorando nuevas herramientas, desarrollando habilidades y enfrentándome a nuevos retos.
-
-```javascript
-const juanfe = {
-    name: "Juanfe Fernandez",
-    username: "JuanfeFernandez",
-    occupation: "Student & Developer",
-    
-    mindset: [
-        "Learn something new every day",
-        "Experiment with ideas",
-        "Build creative solutions",
-        "Never stop improving"
-    ],
-
-    currently: "Learning, coding and creating 🚀",
-
-    motto: "Progress over perfection."
-};
-```
+I believe every line of code is an opportunity to learn something new.
 
 <div align="center">
 
-**No se trata de saberlo todo, sino de nunca dejar de aprender.**
+### 🚀 Always learning. Always creating.
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                  TECH STACK                       -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                  MY JOURNEY                    -->
+<!-- ============================================== -->
 
-## ⚙️ Technologies & Tools
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
-
-### 🛠️ Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql&theme=dark" />
-
-</div>
-
-> Estas son tecnologías de ejemplo. Modifica los iconos para mostrar únicamente las herramientas que utilizas o estás aprendiendo.
-
----
-
-<!-- ================================================= -->
-<!--                  CURRENT FOCUS                    -->
-<!-- ================================================= -->
-
-## 🎯 What I'm Working On
-
-<div align="center">
+## 🌱 My Journey
 
 <table>
 <tr>
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/code.png" width="48"/>
-<h3>Learning</h3>
-Exploring programming concepts and technologies.
-<br/><br/>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="48"/>
-<h3>Building</h3>
-Turning knowledge into practical projects.
-<br/><br/>
-</td>
+### 📚 Learning
 
-<td align="center" width="33%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/idea.png" width="48"/>
-<h3>Creating</h3>
-Experimenting with ideas and solutions.
-<br/><br/>
+Exploring programming languages, software development and new technologies.
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Creating
+
+Building personal projects and experimenting with different ideas.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Exploring
+
+Discovering new tools, frameworks and ways to solve problems.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Improving
+
+Developing my skills one project and one challenge at a time.
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ================================================= -->
-<!--                  GITHUB STATS                     -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                 TECHNOLOGIES                   -->
+<!-- ============================================== -->
 
-## 📊 GitHub Analytics
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&hide_border=false&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=12&include_all_commits=true&rank_icon=github" />
+**Languages**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&hide_border=false&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=12&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=JuanfeFernandez&theme=dark&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=12" />
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                 CONTRIBUTIONS                     -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                 MY PROJECTS                    -->
+<!-- ============================================== -->
 
-## 🐍 My Contribution Journey
+## 💻 Things I've Been Building
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JuanfeFernandez/JuanfeFernandez/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<a href="https://github.com/JuanfeFernandez?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-b88d00?style=for-the-badge&logo=github&logoColor=white&labelColor=171717"/>
+</a>
+
+</div>
+
+Here you'll find my experiments, personal projects and everything I'm developing as I continue learning.
+
+<!-- Puedes añadir proyectos destacados aquí -->
+
+<!--
+<div align="center">
+<a href="LINK_DEL_PROYECTO">
+<img src="IMAGEN_DEL_PROYECTO" width="300"/>
+</a>
+</div>
+-->
+
+---
+
+<!-- ============================================== -->
+<!--                  STATISTICS                    -->
+<!-- ============================================== -->
+
+## 📊 My GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=12&include_all_commits=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=12&langs_count=8"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=12"/>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                 RANDOM DEV QUOTE                  -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                  INSPIRATION                    -->
+<!-- ============================================== -->
 
-## 💭 Daily Developer Mindset
+## ✨ A Little Inspiration
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+<br/><br/>
+
+**"The best way to predict the future is to create it."**
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!--                     FOOTER                        -->
-<!-- ================================================= -->
+<!-- ============================================== -->
+<!--                    FOOTER                      -->
+<!-- ============================================== -->
 
 <div align="center">
 
-### 🌟 Thanks for stopping by!
+### Thanks for visiting my profile! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=500&lines=Keep+learning.;Keep+creating.;Keep+moving+forward." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=500&lines=Keep+learning.;Keep+exploring.;Keep+creating."
 
-<br/>
+<br/><br/>
 
-**Let's build something awesome! 🚀**
+**See you in the next commit! 🚀**
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=110&section=footer" width="100%"/>
 
 </div>
