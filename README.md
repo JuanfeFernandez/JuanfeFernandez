@@ -1,85 +1,85 @@
 
 <!-- ============================================== -->
-<!--                    HEADER                      -->
+<!--                  CABECERA                      -->
 <!-- ============================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=200&section=header&text=Juanfe%20Fernandez&fontSize=48&fontColor=ededed&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Creative%20Mind&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+something+new+every+day.;Exploring+technology+and+building+ideas.;Progress+over+perfection." />
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/library_hero.jpg" width="100%" alt="Imagen de cabecera de Juanfe"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-b88d00?style=for-the-badge&labelColor=171717"/>
-<img src="https://img.shields.io/badge/MINDSET-CREATIVITY-810000?style=for-the-badge&labelColor=171717"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=650&lines=%C2%A1Hola%2C+soy+Juanfe!;Aprendiendo+y+creando+cada+d%C3%ADa;Explorando+nuevas+ideas+y+tecnolog%C3%ADas;El+progreso+es+mejor+que+la+perfecci%C3%B3n." />
 
 <br/><br/>
 
-<a href="https://github.com/JuanfeFernandez">
-<img src="https://komarev.com/ghpvc/?username=JuanfeFernandez&style=flat-square&color=b88d00&label=PROFILE+VISITORS"/>
-</a>
+<img src="https://img.shields.io/badge/ESTADO-EN%20APRENDIZAJE-b88d00?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/MENTALIDAD-CREATIVIDAD-810000?style=for-the-badge&labelColor=171717"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=JuanfeFernandez&style=flat-square&color=b88d00&label=VISITAS+AL+PERFIL"/>
 
 </div>
 
 ---
 
 <!-- ============================================== -->
-<!--                  INTRODUCTION                  -->
+<!--                 SOBRE MI                       -->
 <!-- ============================================== -->
 
-## 👋 Hey! Welcome to my space
+## 👋 ¡Bienvenido a mi espacio!
 
-I'm **Juanfe Fernandez**, a student passionate about technology, software development and creative problem-solving.
+¡Hola! Soy **Juanfe Fernandez**, estudiante apasionado por la tecnología, el desarrollo de software y la creatividad.
 
-I enjoy discovering how things work, experimenting with new tools and turning ideas into something real.
+Me gusta descubrir cómo funcionan las cosas, experimentar con nuevas herramientas y transformar ideas en proyectos reales.
 
-I believe every line of code is an opportunity to learn something new.
+Actualmente estoy construyendo mi camino en el mundo de la programación, aprendiendo constantemente y buscando nuevos desafíos que me permitan crecer.
 
 <div align="center">
 
-### 🚀 Always learning. Always creating.
+### 🚀 Siempre aprendiendo. Siempre creando.
 
 </div>
 
 ---
 
 <!-- ============================================== -->
-<!--                  MY JOURNEY                    -->
+<!--                MI CAMINO                       -->
 <!-- ============================================== -->
 
-## 🌱 My Journey
+## 🌱 Mi camino como desarrollador
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Learning
+### 📚 Aprender
 
-Exploring programming languages, software development and new technologies.
+Explorar lenguajes de programación, conceptos y nuevas tecnologías.
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Creating
+### 💡 Crear
 
-Building personal projects and experimenting with different ideas.
+Convertir conocimientos e ideas en proyectos propios.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Exploring
+### 🔍 Explorar
 
-Discovering new tools, frameworks and ways to solve problems.
+Descubrir herramientas y nuevas formas de resolver problemas.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Improving
+### 🎯 Mejorar
 
-Developing my skills one project and one challenge at a time.
+Desarrollar mis habilidades con cada proyecto y desafío.
 
 </td>
 </tr>
@@ -88,20 +88,20 @@ Developing my skills one project and one challenge at a time.
 ---
 
 <!-- ============================================== -->
-<!--                 TECHNOLOGIES                   -->
+<!--              TECNOLOGIAS                       -->
 <!-- ============================================== -->
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-**Languages**
+**Lenguajes de programación**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-**Tools & Platforms**
+**Herramientas y plataformas**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql&theme=dark"/>
 
@@ -110,85 +110,83 @@ Developing my skills one project and one challenge at a time.
 ---
 
 <!-- ============================================== -->
-<!--                 MY PROJECTS                    -->
+<!--                 PROYECTOS                      -->
 <!-- ============================================== -->
 
-## 💻 Things I've Been Building
+## 💻 Mis proyectos
 
 <div align="center">
 
 <a href="https://github.com/JuanfeFernandez?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-b88d00?style=for-the-badge&logo=github&logoColor=white&labelColor=171717"/>
+<img src="https://img.shields.io/badge/EXPLORAR%20MIS%20REPOSITORIOS-b88d00?style=for-the-badge&logo=github&logoColor=white&labelColor=171717"/>
 </a>
 
 </div>
 
-Here you'll find my experiments, personal projects and everything I'm developing as I continue learning.
+Aquí encontrarás mis experimentos, proyectos personales y desarrollos realizados durante mi proceso de aprendizaje.
 
-<!-- Puedes añadir proyectos destacados aquí -->
-
-<!--
-<div align="center">
-<a href="LINK_DEL_PROYECTO">
-<img src="IMAGEN_DEL_PROYECTO" width="300"/>
-</a>
-</div>
--->
+Cada proyecto representa una oportunidad para poner en práctica lo aprendido y descubrir algo nuevo.
 
 ---
 
 <!-- ============================================== -->
-<!--                  STATISTICS                    -->
+<!--                ESTADISTICAS                    -->
 <!-- ============================================== -->
 
-## 📊 My GitHub Activity
+## 📊 Mi actividad en GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=12&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&locale=es&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=12&include_all_commits=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=12&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&locale=es&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=12&langs_count=8"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=12"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=JuanfeFernandez&locale=es&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=12"/>
 
 </div>
 
 ---
 
 <!-- ============================================== -->
-<!--                  INSPIRATION                    -->
+<!--                 INSPIRACION                     -->
 <!-- ============================================== -->
 
-## ✨ A Little Inspiration
+## ✨ Una filosofía
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+### "El futuro pertenece a quienes nunca dejan de aprender."
 
-<br/><br/>
+<br/>
 
-**"The best way to predict the future is to create it."**
+Cada línea de código, cada error y cada nuevo proyecto forman parte del camino.
+
+**No busco ser perfecto, busco mejorar constantemente.**
 
 </div>
 
 ---
 
 <!-- ============================================== -->
-<!--                    FOOTER                      -->
+<!--                   FOOTER                       -->
 <!-- ============================================== -->
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### 🌟 ¡Gracias por visitar mi perfil!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=500&lines=Keep+learning.;Keep+exploring.;Keep+creating."
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=B88D00&center=true&vCenter=true&width=550&lines=Contin%C3%BAa+aprendiendo.;Contin%C3%BAa+explorando.;Contin%C3%BAa+creando." alt="Mensaje de despedida"/>
 
 <br/><br/>
 
-**See you in the next commit! 🚀**
+**¡Nos vemos en el próximo proyecto! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=110&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:810000,100:b88d00&height=120&section=footer" width="100%" alt="Pie de página decorativo"/>
 
 </div>
