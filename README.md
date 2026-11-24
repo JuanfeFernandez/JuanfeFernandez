@@ -55,16 +55,20 @@
 <!-- ═══════════ DIVISOR ═══════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:cf0000,100:171717&height=2" width="100%"/>
 
-<!-- ═══════════ ESTADÍSTICAS (SIMÉTRICAS) ═══════════ -->
+<!-- ═══════════ ESTADÍSTICAS EQUILIBRADAS ═══════════ -->
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=8&include_all_commits=true&count_private=true&card_width=480" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=compact&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=8&langs_count=8&card_width=480" height="195"/>
+  <!-- Las dos tarjetas superiores ocupan el 48% cada una -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanfeFernandez&show_icons=true&bg_color=171717&title_color=b88d00&text_color=ededed&icon_color=cf0000&border_color=810000&border_radius=8&include_all_commits=true&count_private=true" width="48%" />
+  
+  <!-- Cambiamos a layout=donut para que ocupe el mismo alto que la tarjeta de la izquierda -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfeFernandez&layout=donut&bg_color=171717&title_color=b88d00&text_color=ededed&border_color=810000&border_radius=8&langs_count=6" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=8" height="160" />
+  <!-- La racha ocupa el 97% del ancho para alinearse perfectamente con las de arriba -->
+  <img src="https://streak-stats.demolab.com?user=JuanfeFernandez&background=171717&border=810000&stroke=b88d00&ring=cf0000&fire=cf0000&currStreakNum=b88d00&sideNums=ededed&currStreakLabel=b88d00&sideLabels=ededed&dates=868686&border_radius=8" width="97%" />
 </div>
 
 <!-- ═══════════ DIVISOR ═══════════ -->
